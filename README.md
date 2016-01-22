@@ -2,7 +2,7 @@
 
 ### Freelance Full Stack Javascript Developer. 
 
-[tormodsmith@gmail.com](tormodsmith@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tormod-smith-b49bb614?trk=nav_responsive_tab_profile) |
+tormodsmith@gmail.com | [LinkedIn](https://www.linkedin.com/in/tormod-smith-b49bb614?trk=nav_responsive_tab_profile) |
 [**portfolio**](http://tormod17.github.io/tormod-smith-portfolio/)
 
 ## Why I am a Developer
