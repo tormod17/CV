@@ -5,10 +5,9 @@
 tormodsmith@gmail.com | [LinkedIn](https://www.linkedin.com/in/tormod-smith-b49bb614?trk=nav_responsive_tab_profile) |
 [**portfolio**](http://tormod17.github.io/tormod-smith-portfolio/)
 
-## Why I am a Developer
+## Why I am a Developer?
 
 Whilst delving into various pursuits I have always had a keen interest in the web and building websites/apps. This finally pushed me into pursuing my interest furhter and undertaking an online course and then enrolling in Founders & Coders, which has since opened the door to a world I have since fallen in love with. The oppurtunity to work through problems collabratively and coming up with a tangible final product I find extremely rewarding. Web development has a never ending spiral of continous learning, the fast pace ever changing environment provides a rich rewards and excitement.
-
 
 ## Skills
 
@@ -43,15 +42,15 @@ Whilst delving into various pursuits I have always had a keen interest in the we
 
 ## Other Work Experience
 
-- **Estate Agent** (July 2011 -March 2015): Winkworth Willesden Green Jorgensen Turner Queens Park, Easy Property.  
-- **ESL Teacher** (July 2006 - April 2011): South Korea, taught from Elementary school to business English. 
+- **Estate Agent**, (July 2011 -March 2015): Winkworth Willesden Green Jorgensen Turner Queens Park, Easy Property.  
+- **ESL Teacher**, (July 2006 - April 2011): South Korea, taught from Elementary school to business English. 
 
 ## Education
 
-- **Economics Bsc** University of Glasgow
+- **Economics Bsc**, University of Glasgow
 
 ## Other Interests 
 
-- Travel, Football, Kitesurfing, Taekwondo, Running, Korean, Pod casts(Stuff You Should Know, Freakanomics Radio). 
+- Travel, Football, Kitesurfing, Taekwondo, Running, Korean, Diving, Pod casts(Stuff You Should Know, Freakanomics Radio). 
 
 
