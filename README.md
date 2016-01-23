@@ -7,7 +7,7 @@ tormodsmith@gmail.com | [LinkedIn](https://www.linkedin.com/in/tormod-smith-b49b
 
 ## Why I am a Developer?
 
-Whilst delving into various pursuits I have always had a keen interest in the web and building websites/apps. This finally pushed me into pursuing my interest furhter and undertaking an online course and then enrolling in Founders & Coders, which has since opened the door to a world I have since fallen in love with. The oppurtunity to work through problems collabratively and coming up with a tangible final product I find extremely rewarding. Web development has a never ending spiral of continous learning, the fast pace ever changing environment provides a rich rewards and excitement.
+Whilst delving into various pursuits I have always had a keen interest in the web and building websites/apps. This finally pushed me into pursuing my interest furhter and undertaking an online course and then enrolling in Founders & Coder's Academy. This has been life changing and since opened the door to a world I have fallen in love with. The oppurtunity to work through problems collabratively and coming up with a tangible final product I find extremely rewarding. Web development has a never ending spiral of continous learning, the fast paced ever changing environment provides rich rewards and excitement.
 
 ## Skills
 
@@ -30,15 +30,15 @@ Whilst delving into various pursuits I have always had a keen interest in the we
 
 ## Thinkful (March 2015 - June 2015)
 
-- Part-time online Front-end development course, working in the evening and weekends.
+- Part-time online Front-end development course. 
 - Introduction to HTML5, CSS3,  Javascript, Jquery, Chrome develpoer tools and development best practices.  
-- Once a week tuition with online mentor, assisting in development of 10 various differnet projecs. 
+- Once a week tuition with online mentor, assisting in development of 10 various different projects. 
 
 ## Freelance Work  
 
-- **Boat Launch** : Web app listing spots where people can launch their boats across europe. Using google maps API. 
-- **Unitie** : Website /platform for Brands to link with Student societies ofr sponsoreship. Using Redis database. 
-- **Ajoupas Barbados** : Website advertising holiday rentals in Barbados. Using Boostrap framework.
+- **Boat Launch** : Web app listing spots where boat owners can launch their boats across europe. Using google maps API. 
+- **Unitie** : Website /platform for Brands to link with Student societies for sponsorship. Using Redis database. 
+- **Ajoupas Barbados** : Website advertising holiday rentals in Barbados. Using Bootstrap framework.
 
 ## Other Work Experience
 
@@ -49,7 +49,7 @@ Whilst delving into various pursuits I have always had a keen interest in the we
 
 - **Economics Bsc**, University of Glasgow
 
-## Other Interests 
+### Other Interests 
 
 - Travel, Football, Kitesurfing, Taekwondo, Running, Korean, Diving, Pod casts(Stuff You Should Know, Freakanomics Radio). 
 
