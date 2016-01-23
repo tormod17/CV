@@ -21,14 +21,14 @@ Whilst delving into various pursuits I have always had a keen interest in the we
 
 ## Code Schools 
 
-### Founders and Coders (Septemeber 2015 - January 2016)
+#### Founders and Coders (Septemeber 2015 - January 2016)
 
 - Full-time 16-week intensive coding academy with subsequent freelance work
 - Full-stack Javascript development, including Node.js, D3.js and React.js
 - Emphasis on team-based learning and cooperative progression
 - Test Driven Development heavily prioritised, with best practices, Agile methodologies and pair programming
 
-## Thinkful (March 2015 - June 2015)
+#### Thinkful (March 2015 - June 2015)
 
 - Part-time online Front-end development course. 
 - Introduction to HTML5, CSS3,  Javascript, Jquery, Chrome develpoer tools and development best practices.  
