@@ -7,7 +7,7 @@ tormodsmith@gmail.com | [LinkedIn](https://www.linkedin.com/in/tormod-smith-b49b
 
 ## Why I am a Developer?
 
-Whilst delving into various pursuits I have always had a keen interest in the web and building websites/apps. This finally pushed me into pursuing my interest furhter and undertaking an online course and then enrolling in Founders & Coder's Academy. This has been life changing and since opened the door to a world I have fallen in love with. The opportunity to work through problems collaboratively and coming up with a tangible final product I find extremely rewarding. Web development has a never ending spiral of continuous learning, the fast paced ever changing environment provides rich rewards and excitement.
+Whilst delving into various pursuits I have always had a keen interest in the web and building websites/apps. This finally pushed me into pursuing my interest further and undertaking an online course and then enrolling in Founders & Coder's Academy. This has been life changing and since opened the door to a world I have fallen in love with. The opportunity to work through problems collaboratively to come up with a tangible final product I find extremely rewarding. Web development has a never ending spiral of continuous learning, the fast paced ever changing environment provides rich rewards and excitement.
 
 ## Skills
 
