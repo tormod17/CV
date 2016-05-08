@@ -17,7 +17,7 @@ Whilst delving into various pursuits I have always had a keen interest in the we
 | Node.js     | Jquery               | Istanbul| npm           | Firebase  |
 | HTML5       | D3.js                | Tape    | Heroku        |           |
 | CSS3        | Bootstrap            |         | PIXLR         |           |
-| Markdown    |                      |         | API's         |           |
+| Markdown    | Semantic Ui          |         | API's         |           |
 
 ## Code Schools 
 
