@@ -11,10 +11,10 @@ Whilst delving into various pursuits I have always had a keen interest in the we
 
 ## Skills
 
-| Languages   | Frameworks/Libraries | Testing | Tools/Others  | Databases | Apis      |
+| Languages   | Frameworks/Libraries | Testing | Tools/Others  | Databases | Api's     |
 |-------------|----------------------|---------|---------------|-----------|-----------|
 | Javascript  | Hapi.js              | Qunit   | Git & Git Hub | Redis     |Linkedin   |
-| Node.js     | Jquery               | Istanbul| npm           | Firebase  |Google Map |
+| Node.js     | Jquery               | Istanbul| npm           | Firebase  |Google     |
 | HTML5       | D3.js                | Tape    | Heroku        |           |Sound Cloud|
 | CSS3        | Bootstrap            |         | PIXLR         |           |Github     |
 | Markdown    | Semantic Ui          |         | API's         |           |Facebook   |
