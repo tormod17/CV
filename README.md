@@ -11,13 +11,13 @@ Whilst delving into various pursuits I have always had a keen interest in the we
 
 ## Skills
 
-| Languages   | Frameworks/Libraries | Testing | Tools/Others  | Databases |
-|-------------|----------------------|---------|---------------|-----------|
-| Javascript  | Hapi.js              | Qunit   | Git & Git Hub | Redis     |
-| Node.js     | Jquery               | Istanbul| npm           | Firebase  |
-| HTML5       | D3.js                | Tape    | Heroku        |           |
-| CSS3        | Bootstrap            |         | PIXLR         |           |
-| Markdown    | Semantic Ui          |         | API's         |           |
+| Languages   | Frameworks/Libraries | Testing | Tools/Others  | Databases | Apis      |
+|-------------|----------------------|---------|---------------|-----------|-----------|
+| Javascript  | Hapi.js              | Qunit   | Git & Git Hub | Redis     |Linkedin   |
+| Node.js     | Jquery               | Istanbul| npm           | Firebase  |Google Map |
+| HTML5       | D3.js                | Tape    | Heroku        |           |Sound Cloud|
+| CSS3        | Bootstrap            |         | PIXLR         |           |Github     |
+| Markdown    | Semantic Ui          |         | API's         |           |Facebook   |
 
 ## Code Schools 
 
