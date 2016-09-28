@@ -35,8 +35,8 @@ Whilst delving into various pursuits I have always had a keen interest in the we
 - Once a week tuition with online mentor, assisting in development of 10 various different projects. 
 
 ## Coding Experinece
-- **WCRS** :Part of a large, multi-national team of producers, validators and quality assurance experts that collaboratively ensure the highest standards of consistency and integrity for the client's global digital presence.
-- **Harness** : I.T. Recruitment website automating the recruitment process. Node, Hapi.js, Redis, S3 Cloud and Semantic UI
+- **WCRS** : Part of a large, multi-national team of producers, validators and quality assurance experts that collaboratively ensure the highest standards of consistency and integrity for the client's global digital presence.
+- **Harness** : I.T. Recruitment website automating the recruitment process. Node, Hapi.js, Redis, S3 Cloud and Semantic UI.
 - **Boat Launch** : Web app listing spots where boat owners can launch their boats across europe. Using google maps API. 
 - **Unitie** : Website /platform for Brands to link with Student societies for sponsorship. Using Redis database. 
 - **Ajoupas Barbados** : Website advertising holiday rentals in Barbados. Using Bootstrap framework.
