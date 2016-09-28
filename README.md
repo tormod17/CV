@@ -18,6 +18,8 @@ Whilst delving into various pursuits I have always had a keen interest in the we
 | HTML5       | D3.js                | Tape    | Heroku        |           |Sound Cloud|
 | CSS3        | Bootstrap            |         | PIXLR         |           |Github     |
 | Markdown    | Semantic Ui          |         | ES Lint       |           |Facebook   |
+|             |                      |         | Photoshop     |           |           |
+|             |                      |         | SVN           |           |           |
 
 ## Code Schools 
 
