@@ -21,7 +21,7 @@ Whilst delving into various pursuits I have always had a keen interest in the we
 |             |                      |         | Photoshop     |           |           |
 |             |                      |         | SVN           |           |           |
 
-## Experinece
+## Experince
 
 <img src="https://cloud.githubusercontent.com/assets/11330267/19144017/333c67fc-8b9f-11e6-9e7e-4b028c0eb784.png" width="120">
 - **WCRS** : Part of a large, multi-national team of producers, validators and quality assurance experts that collaboratively ensure the highest standards of consistency and integrity for the client's global digital presence. Updaitng images using photoshop and maintain and editing a large code base using svn source contriol.
