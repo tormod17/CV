@@ -25,6 +25,7 @@ Whilst delving into various pursuits I have always had a keen interest in the we
 
 #### Founders and Coders (Septemeber 2015 - January 2016)
 
+<img src="https://cloud.githubusercontent.com/assets/11330267/19144074/8557c072-8b9f-11e6-9229-3ec324142ef4.png" width="120">
 - Full-time 16-week intensive coding academy with subsequent freelance work
 - Full-stack Javascript development, including Node.js, D3.js and React.js
 - Emphasis on team-based learning and cooperative progression
@@ -40,7 +41,16 @@ Whilst delving into various pursuits I have always had a keen interest in the we
 
 <img src="https://cloud.githubusercontent.com/assets/11330267/19144017/333c67fc-8b9f-11e6-9e7e-4b028c0eb784.png" width="120">
 
+
+
+<img src="https://cloud.githubusercontent.com/assets/11330267/19144123/c1413596-8b9f-11e6-8394-e453868c1311.png" width="120">
+
+<img src="https://cloud.githubusercontent.com/assets/11330267/19144145/df95ba4e-8b9f-11e6-9452-26f09c7c34a6.png" width="120">
+
+
 - **WCRS** : Part of a large, multi-national team of producers, validators and quality assurance experts that collaboratively ensure the highest standards of consistency and integrity for the client's global digital presence. Updaitng images using photoshop and maintain and editing a large code base using svn source contriol.
+<img src="https://cloud.githubusercontent.com/assets/11330267/19144074/8557c072-8b9f-11e6-9229-3ec324142ef4.png" width="120">
+
 - **Harness** : I.T. Recruitment website automating the recruitment process. Node, Hapi.js, Redis, S3 Cloud and Semantic UI.
 - **Boat Launch** : Web app listing spots where boat owners can launch their boats across europe. Using google maps API. 
 - **Unitie** : Website /platform for Brands to link with Student societies for sponsorship. Using Redis database. 
