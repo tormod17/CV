@@ -32,14 +32,17 @@ Whilst delving into various pursuits I have always had a keen interest in the we
 
 <img src="https://cloud.githubusercontent.com/assets/11330267/19144577/5a89df94-8ba2-11e6-8e58-c98f2e136836.png" width="120"> <img src="https://cloud.githubusercontent.com/assets/11330267/19144074/8557c072-8b9f-11e6-9229-3ec324142ef4.png" width="80">
 
-**Harness - Freelance Fullstack Developer**
+**Harness - Freelance Full Stack Developer**
 - As a team of two full stack develpoers helped turn an entreprneurs idea in to a functioning MVP
 - Responsible for collabroativley  assisting in the design, building, testing and execution from start to finish.
-**Unitie**
-- Website /platform for Brands to link with Student societies for sponsorship. Using Redis database. 
-**Boat Launch** 
+
+**Unitie - Freelance Full Stack Developer**
+- Built a platform for Brands to link with Student societies for sponsorship.
+
+**Boat Launch - Freelance Full Stack Developer** 
 - Web app listing spots where boat owners can launch their boats across europe. Using google maps API.
-**Ajoupas Barbados** 
+
+**Ajoupas Barbados - Freelance Full Stack Developer** 
 - Website advertising holiday rentals in Barbados. Using Bootstrap framework.
 
 ## Code Schools 
