@@ -24,10 +24,17 @@ Whilst delving into various pursuits I have always had a keen interest in the we
 ## Experience
 
 <img src="https://cloud.githubusercontent.com/assets/11330267/19144017/333c67fc-8b9f-11e6-9e7e-4b028c0eb784.png" width="120">
-- **WCRS** : Part of a large, multi-national team of producers, validators and quality assurance experts that collaboratively ensure the highest standards of consistency and integrity for the client's global digital presence. Updaitng images using photoshop and maintain and editing a large code base using svn source contriol.
 
-<img src="https://cloud.githubusercontent.com/assets/11330267/19144577/5a89df94-8ba2-11e6-8e58-c98f2e136836.png" width="120">
-- **Harness** : I.T. Recruitment website automating the recruitment process. Node, Hapi.js, Redis, S3 Cloud and Semantic UI.
+**WCRS -Interactive Developer:**
+- Part of a large, multi-national team of producers, validators and quality assurance experts that collaboratively ensure the highest standards of consistency and integrity for the client's global digital presence.
+- Optimising images using photoshop, getting familiar with a large codebase, write high quality maintainable code as well as  responsive design.
+- Working in a multidisciplinary team and have great attention to detail and meet deadlines comfortably. 
+
+<img src="https://cloud.githubusercontent.com/assets/11330267/19144577/5a89df94-8ba2-11e6-8e58-c98f2e136836.png" width="120"> <img src="https://cloud.githubusercontent.com/assets/11330267/19144074/8557c072-8b9f-11e6-9229-3ec324142ef4.png" width="80">
+
+**Harness - Freelance Fullstack Developer**
+- As a team of two full stack develpoers helped turn an entreprneurs idea in to a functioning MVP
+- Responsible for collabroativley  assisting in the design, building, testing and execution from start to finish.
 - **Boat Launch** : Web app listing spots where boat owners can launch their boats across europe. Using google maps API. 
 - **Unitie** : Website /platform for Brands to link with Student societies for sponsorship. Using Redis database. 
 - **Ajoupas Barbados** : Website advertising holiday rentals in Barbados. Using Bootstrap framework.
@@ -47,7 +54,7 @@ Whilst delving into various pursuits I have always had a keen interest in the we
 - Introduction to HTML5, CSS3,  Javascript, Jquery, Chrome develpoer tools and development best practices.  
 - Once a week tuition with online mentor, assisting in development of 10 various different projects. 
 
-## Other Work Experience
+## Pre-Coding Experience
 
 - **Estate Agent**, (July 2011 -March 2015): Winkworth Willesden Green Jorgensen Turner Queens Park, Easy Property.  
 - **ESL Teacher**, (July 2006 - April 2011): South Korea, taught from Elementary school to business English. 
@@ -55,7 +62,7 @@ Whilst delving into various pursuits I have always had a keen interest in the we
 ## Education
 
 <img src="https://cloud.githubusercontent.com/assets/11330267/19144336/cf0db7c0-8ba0-11e6-9ca0-aea4d908f196.png" width="150">
-- **Economics Bsc**, University of Glasgow
+**Economics Bsc**, University of Glasgow
 
 ## Interests 
 
