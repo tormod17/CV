@@ -41,6 +41,7 @@ Whilst delving into various pursuits I have always had a keen interest in the we
 - Emphasis on team-based learning and cooperative progression
 - Test Driven Development heavily prioritised, with best practices, Agile methodologies and pair programming
 
+<img src="https://cloud.githubusercontent.com/assets/11330267/19144468/ad88f758-8ba1-11e6-96d2-d34783bb6a1e.png" width="120">
 #### Thinkful (March 2015 - June 2015)
 - Part-time online Front-end development course. 
 - Introduction to HTML5, CSS3,  Javascript, Jquery, Chrome develpoer tools and development best practices.  
