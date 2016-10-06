@@ -37,6 +37,9 @@ Whilst delving into various pursuits I have always had a keen interest in the we
 - Once a week tuition with online mentor, assisting in development of 10 various different projects. 
 
 ## Coding Experinece
+
+<img src="https://cloud.githubusercontent.com/assets/11330267/19144017/333c67fc-8b9f-11e6-9e7e-4b028c0eb784.png" width="120">
+
 - **WCRS** : Part of a large, multi-national team of producers, validators and quality assurance experts that collaboratively ensure the highest standards of consistency and integrity for the client's global digital presence. Updaitng images using photoshop and maintain and editing a large code base using svn source contriol.
 - **Harness** : I.T. Recruitment website automating the recruitment process. Node, Hapi.js, Redis, S3 Cloud and Semantic UI.
 - **Boat Launch** : Web app listing spots where boat owners can launch their boats across europe. Using google maps API. 
