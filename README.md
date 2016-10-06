@@ -67,8 +67,7 @@ Whilst delving into various pursuits I have always had a keen interest in the we
 
 ## Education
 <img src="https://cloud.githubusercontent.com/assets/11330267/19144336/cf0db7c0-8ba0-11e6-9ca0-aea4d908f196.png" width="100">
-
-**Economics Bsc**, University of Glasgow
+- **Economics Bsc**, University of Glasgow
 
 ## Interests 
 
