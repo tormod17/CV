@@ -27,7 +27,7 @@ Whilst delving into various pursuits I have always had a keen interest in the we
 
 **WCRS -Interactive Developer**
 - Part of a large, multi-national team of producers, validators and quality assurance experts that collaboratively ensure the highest standards of consistency and integrity for the client's global digital presence.
-- Optimising images using photoshop, getting familiar with a large codebase, write high quality maintainable code as well as  responsive design.
+- Optimising images using photoshop, getting familiar with a large codebase, writing high quality maintainable code and ensuring responsive design.
 - Working in a multidisciplinary team and have great attention to detail and meet deadlines comfortably. 
 
 <img src="https://cloud.githubusercontent.com/assets/11330267/19144577/5a89df94-8ba2-11e6-8e58-c98f2e136836.png" width="120"> <img src="https://cloud.githubusercontent.com/assets/11330267/19144074/8557c072-8b9f-11e6-9229-3ec324142ef4.png" width="80">
