@@ -66,8 +66,8 @@ Whilst delving into various pursuits I have always had a keen interest in the we
 - **ESL Teacher**, (July 2006 - April 2011): South Korea, taught from Elementary school to business English. 
 
 ## Education
+<img src="https://cloud.githubusercontent.com/assets/11330267/19144336/cf0db7c0-8ba0-11e6-9ca0-aea4d908f196.png" width="100">
 
-<img src="https://cloud.githubusercontent.com/assets/11330267/19144336/cf0db7c0-8ba0-11e6-9ca0-aea4d908f196.png" width="150">
 **Economics Bsc**, University of Glasgow
 
 ## Interests 
