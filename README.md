@@ -16,14 +16,22 @@ Whilst delving into various pursuits I have always had a keen interest in the we
 | Javascript  | Hapi.js              | Qunit   | Git & Git Hub | Redis     |Linkedin   |
 | Node.js     | Jquery               | Istanbul| npm           | Firebase  |Google     |
 | HTML5       | D3.js                | Tape    | Heroku        |           |Sound Cloud|
-| CSS3        | Bootstrap            |         | PIXLR         |           |Github     |
+| CSS3        | Bootstrap            | Jest    | PIXLR         |           |Github     |
 | Markdown    | Semantic Ui          |         | ES Lint       |           |Facebook   |
-|             |                      |         | Photoshop     |           |           |
-|             |                      |         | SVN           |           |           |
+|             | React + Redux        |         | Gulp          |           |           |   Material U.I.
+|             |                      |         | Sass       |            
+
 
 ## Experience
 
-<img src="https://cloud.githubusercontent.com/assets/11330267/19144017/333c67fc-8b9f-11e6-9e7e-4b028c0eb784.png" width="120">
+<img src="https://static.wixstatic.com/media/f8e427_b2f0c743a8e04e61b366406385d21520.png/v1/fill/w_532,h_88,al_c,usm_0.66_1.00_0.01/f8e427_b2f0c743a8e04e61b366406385d21520.png" width="150">
+
+**Smartzer -Front-end Developer**
+- Part of a small tech team providing shoppable/interactive video for luxury retail brands.
+- Using JavaScript, HTML and CSS(sass) to build custom players that matched the look and feel of a clients website. The player would be tested to ensure responsiveness and incorporate a mobile landscape and portrait design. 
+- Building a client-side editor to enable users to create their own shoppable video, using React + Redux with a material U.I. theme. 
+
+<img src="https://cloud.githubusercontent.com/assets/11330267/19144017/333c67fc-8b9f-11e6-9e7e-4b028c0eb784.png" height="50" width="50">
 
 **WCRS -Interactive Developer**
 - Part of a large, multi-national team of producers, validators and quality assurance experts that collaboratively ensure the highest standards of consistency and integrity for the client's global digital presence.
@@ -39,23 +47,22 @@ Whilst delving into various pursuits I have always had a keen interest in the we
 [**Unitie - Freelance Full Stack Developer**](http://www.unitie.co.uk/)
 - Built a platform for Brands to link with Student societies looking for sponsorship.
 
-[**Boat Launch - Freelance Full Stack Developer** ](https://boatlaunch-app.herokuapp.com/)
-- Web app listing spots where boat owners can launch their boats across europe. Using google maps API.
-
 [**Ajoupas Barbados - Freelance Full Stack Developer** ](http://ajoupasbarbados.com/)
 - Responsive Website advertising holiday rentals in Barbados. Using Bootstrap framework.
 
 ## Code Schools 
 
-<img src="https://cloud.githubusercontent.com/assets/11330267/19144074/8557c072-8b9f-11e6-9229-3ec324142ef4.png" width="150">
-#### Founders and Coders (Septemeber 2015 - January 2016)
+<img src="https://cloud.githubusercontent.com/assets/11330267/19144074/8557c072-8b9f-11e6-9229-3ec324142ef4.png" width="100">
+
+**Founders and Coders (Septemeber 2015 - January 2016)**
 - Full-time 16-week intensive coding academy with subsequent freelance work.
 - Full-stack Javascript development, including Node.js, D3.js and React.js.
 - Emphasis on team-based learning, cooperative progression and paired programming.
 - Test Driven Development heavily prioritised, whilst learning coding best practices and agile methodologies.
 
-<img src="https://cloud.githubusercontent.com/assets/11330267/19144468/ad88f758-8ba1-11e6-96d2-d34783bb6a1e.png" width="120">
-#### Thinkful (March 2015 - June 2015)
+<img src="https://cloud.githubusercontent.com/assets/11330267/19144468/ad88f758-8ba1-11e6-96d2-d34783bb6a1e.png" width="100">
+
+**Thinkful (March 2015 - June 2015)**
 - Part-time online Front-end development course. 
 - Introduction to HTML5, CSS3,  Javascript, Jquery, Chrome develpoer tools and development best practices.  
 - Once a week tuition with online mentor, assisting in development of 10 various different projects. 
@@ -67,10 +74,11 @@ Whilst delving into various pursuits I have always had a keen interest in the we
 
 ## Education
 <img src="https://cloud.githubusercontent.com/assets/11330267/19144336/cf0db7c0-8ba0-11e6-9ca0-aea4d908f196.png" width="100">
-- **Economics Bsc**, University of Glasgow
+
+**Economics Bsc**, University of Glasgow
 
 ## Interests 
 
-- Travel,CELTA, Football, Kitesurfing, Taekwondo, Running, Korean, Diving, Pod casts. 
+- Travel, CELTA, Football, Kitesurfing, Taekwondo, Running, Korean, Diving, Pod casts. 
 
 
